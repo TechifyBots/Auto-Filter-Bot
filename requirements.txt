@@ -13,7 +13,7 @@ pymediainfo-pyrofork
 
 # Other tools
 opencv-python-headless==4.8.1.78
-python-dotenv==0.21.1
+python-dotenv==1.2.2
 PyLeaves==1.0.2
 humanize
 Pillow
